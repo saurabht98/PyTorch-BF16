@@ -1,4 +1,5 @@
 #pragma once
+// Just a comment
 
 // Defines the bloat16 type (brain floating-point). This representation uses
 // 1 bit for the sign, 8 bits for the exponent and 7 bits for the mantissa.
